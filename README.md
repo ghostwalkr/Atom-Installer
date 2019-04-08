@@ -9,4 +9,4 @@ Just a shell script to automate the installation of atom on linux. I mostly put 
 4. $ ./install.sh
 
 Or use this one liner:
-$ git clone https://github.com/Atom-Installer.git; cd Atom-Installer; bash install.sh
+$ git clone https://github.com/ghostwalkr/Atom-Installer.git; cd Atom-Installer; bash install.sh
